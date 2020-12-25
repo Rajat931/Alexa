@@ -1,2 +1,2 @@
 # Alexa
-#Built the simpliest specch recognition model
+#Built the simpliest speech recognition model
